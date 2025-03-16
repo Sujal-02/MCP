@@ -24,7 +24,7 @@ The Model Context Manager (MCM) is a REST API service that allows storing and re
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/model-context-manager.git
+   git clone https://github.com/Sujal-02/MCP.git
    cd model-context-manager
    ```
 
